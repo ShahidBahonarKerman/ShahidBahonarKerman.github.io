@@ -1,9 +1,9 @@
 ---
-layout: network <!-- DO NOT CHANGE THIS -->
-permalink: /network/MaxianEdison/ <!-- GITHUB-USERNAME -->
+layout: network
+permalink: /network/MaxianEdison/ 
 name: Maximilian Edison
 github: MaxianEdison
-website: https://MaximilianEdison.com/ <!-- LINK TO YOUR WEBSITE -->
+website: https://MaximilianEdison.com/ 
 email: MaximilianEdison@gmail.com
 instagram: https://instagram.com/MaxianEdison
 twitter: 
@@ -12,7 +12,7 @@ facebook:
 country: Iran
 location: Kerman
 role: DevOps engineer
-languages: c c++ bash <!-- YOU SHOULDN'T USE SPACE IN THE NAME OF THE PROGRAMMING LANGUAGE -->
+languages: c c++ bash 
 ---
 
 i am maximilian edison and i do not have anything to say 

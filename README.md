@@ -36,6 +36,3 @@ A short biography and a short text about your technical skills.
 ```
 
 ---
-
-
-© Copyright Max Base, 2021

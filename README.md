@@ -36,3 +36,4 @@ A short biography and a short text about your technical skills.
 ```
 
 ---
+Copyright © 2022, MaxianEdison.

@@ -13,7 +13,7 @@ In the name of god; Greetings!
 
 ## Community
 
-You can see a list of all [Community members](/network/){:target="\_blank"}, also you can join [here](https://github.com/ShahidBahonarKerman/ShahidBahonarKerman.github.io){:target="\_blank"}.
+You can see a list of all [Community members](https://shahidbahonarkerman.github.io/network/){:target="\_blank"}, also you can join [here](https://github.com/ShahidBahonarKerman/ShahidBahonarKerman.github.io){:target="\_blank"}.
 
 ## Contact me
 

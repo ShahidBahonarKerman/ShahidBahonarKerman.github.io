@@ -5,10 +5,10 @@ name: Maximilian Edison
 github: MaxianEdison
 website: https://MaximilianEdison.com/ <!-- LINK TO YOUR WEBSITE -->
 email: MaximilianEdison@gmail.com
-instagram: MaxianEdison<!-- LEAVE EMPTY OR PUT LINK TO YOUR PROFILE -->
-twitter: <!-- LEAVE EMPTY OR PUT LINK TO YOUR PROFILE -->
-linkedin: <!-- LEAVE EMPTY OR PUT LINK TO YOUR PROFILE -->
-facebook: <!-- LEAVE EMPTY OR PUT LINK TO YOUR PROFILE -->
+instagram: https://instagram.com/MaxianEdison
+twitter: 
+linkedin: https://linkedin.com/in/MaxianEdison
+facebook: 
 country: Iran
 location: Kerman
 role: DevOps engineer

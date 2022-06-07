@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /network/
-title: Community of programmers and software engineers
+title: Community of programmers and software engineers in shahid bahonar kerman 
 ---
 
 <h1>

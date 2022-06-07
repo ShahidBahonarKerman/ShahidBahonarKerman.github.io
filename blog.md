@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Max Base - Blog posts
+title: MaxianEdison - Blog posts
 ---
 
 <h1>

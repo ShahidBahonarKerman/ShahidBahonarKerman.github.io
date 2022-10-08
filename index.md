@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Shahid Bahonar Uni of kerman - Software Engineers agency
+title: Shahid Bahonar University of Kerman (SBUK)
 ---
 
-# Shahid Bahonar Uni
+# Shahid Bahonar University (SBUK)
 
 In the name of god; Greetings!
 
@@ -18,5 +18,3 @@ You can see a list of all [Community members](https://shahidbahonarkerman.github
 ## Contact me
 
 You can send an email for me to MaximilianEdison (at) gmail.com. I read everything sent there, but I receive too much email to respond to everything.
-
-<!-- JOHN PLEASE ADD YOUR EMAIL ADDRESS HERE -->
